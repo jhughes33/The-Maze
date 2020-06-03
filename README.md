@@ -3,3 +3,9 @@ Co-Wrote a Java program that creates a randomly-generated Maze, and give 3 optio
 Use this link for the Tester setup: https://course.ccs.neu.edu/cs2510/lab1.html
 
 Tester class to run: ExamplesMaze
+
+Keys:
+"r" - reset
+"m" - manual solve
+"d" - depth-first search
+"b" - breadth-first search
